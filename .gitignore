@@ -37,3 +37,6 @@ lerna-debug.log*
 
 # env
 .env
+
+# docker (include postgres user, password, db, ..., etc.)
+docker.env
